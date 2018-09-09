@@ -9,12 +9,11 @@ var gApp = angular.module('gApp', []);
 			"항상 긍적인 마인드로 생활하겠습니다.",
 		    "감사합니다.",
 		    "보유기술은 아래와 같습니다.",
-			"- JAVA : Spring, JSP.Servlet",
-			"- Front end: HTML & CSS & Javascript",
-			"- Database : mysql",
-			"- OS: Linux, Windows",
-            "- HADOOP : Map Reduce"
-			];
+			"JAVA, Html, CSS, JavaScript",
+			"jQuery, Maven, Httpd, Spring",
+			"Hadoop, MariaDB, Linux, Python",
+			"Github, Shell Script"
+            		];
 		
     });
 	gApp.controller('gCtrl', function($scope) {
